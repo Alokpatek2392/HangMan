@@ -14,6 +14,8 @@ def loadWords():
     Depending on the size of the word list, this function may
     take a while to finish.
     """
+    #
+    #
     print "Loading word list from file..."
     # inFile: file
     inFile = open(WORDLIST_FILENAME, 'r', 0)
